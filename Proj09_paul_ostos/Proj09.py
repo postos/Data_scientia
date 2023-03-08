@@ -1,5 +1,5 @@
-#DO NOT MODIFY THE CODE IN THIS FILE
 #File: Proj09.py
+
 '''
 Among other things, this project requires you to 
  Read a csv file containing a large amount of stock market data.

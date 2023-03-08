@@ -5,8 +5,7 @@ class Runner():
     def run(args):
         # print certification 
         print('I certify that this program is my own work\n'
-            'and is not the work of others. I agree not\n'
-            'to share my solution with others.\n'
+            'and is not the work of others.\n'
             '-Paul Ostos') 
 
         # read in the Stock01.csv file and set the column index 
