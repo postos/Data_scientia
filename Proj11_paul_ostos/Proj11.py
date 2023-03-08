@@ -18,7 +18,7 @@ print('args = ',args)
 print()
 
 print("Output from student code begins here.")
-#Call the run method in the Runner file passing
+#Call the run method in the student's file passing
 #the args list as a parameter.
 Runner.run(args)
 
