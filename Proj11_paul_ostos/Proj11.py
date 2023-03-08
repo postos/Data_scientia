@@ -1,5 +1,5 @@
-#DO NOT MODIFY THE CODE IN THIS FILE
 #File: Proj11.py
+
 '''
 Among other things, this project requires you to 
  Read a csv file containing a large amount of stock market data.
@@ -18,7 +18,7 @@ print('args = ',args)
 print()
 
 print("Output from student code begins here.")
-#Call the run method in the student's file passing
+#Call the run method in the Runner file passing
 #the args list as a parameter.
 Runner.run(args)
 

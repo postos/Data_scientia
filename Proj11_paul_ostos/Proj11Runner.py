@@ -5,8 +5,7 @@ class Runner():
     def run(args):
         # print the certification
         print('I certify that this program is my own work')
-        print('and is not the work of others. I agree not')
-        print('to share my solution with others.')
+        print('and is not the work of others.')
         print('-Paul Ostos')
         
         # read the Stock01 file using pandas
