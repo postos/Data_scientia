@@ -1,5 +1,4 @@
 //Paul Ostos
-//chapter 7 Lab
 
 #include <iostream>
 #include <cstdlib> //allow for the use the rand() function
