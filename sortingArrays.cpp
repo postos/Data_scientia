@@ -9,10 +9,10 @@ void bubbleSort(int num[], int size){
     //compare and sort
     for (int i = 0; i < size -1 ; i++){
         for (int j = 0; j < size -i -1; j++){
-            if (num[i] > num[j+1]){
-                temp = num[i];
-                num[i] = num[i+1];
-                num[i+1] = temp;
+            if (num[j] > num[j+1]){
+                temp = num[j];
+                num[j] = num[j+1];
+                num[j+1] = temp;
 
                 for (int k = 0; k < size; k++){
                     cout << num[k] << " ";
